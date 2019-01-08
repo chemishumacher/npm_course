@@ -1,0 +1,19 @@
+{
+  "name": "@chshum/npm_stuff",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon src/consumer.draft.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ajar/marker": "^1.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "description": ""
+}
