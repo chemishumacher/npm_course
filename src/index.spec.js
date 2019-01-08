@@ -19,4 +19,11 @@ describe('testing slugger basic functionality', () => {
         const result = slugger("hey" , "yo")
         expect(result).toEqual("hey-yo");
     })
+     /**
+     * @test - unit test can use the 'test' syntax
+     */
+    test('Empty array should return empty string', () => {
+        const result = slugger()
+        expect(result).toEqual("");
+    })
 })
