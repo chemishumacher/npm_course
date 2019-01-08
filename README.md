@@ -1,3 +1,3 @@
 # npm_course
-[![version](https://badge.fury.io/js/survey-monkey-streams.svg)](//npmjs.com/package/@chshum/npm_stuff)
+[![marker](https://img.shields.io/npm/v/@chshum/npm_stuff.svg)](https://www.npmjs.com/package/@chshum/npm_stuff)
 creating and managing npm packages
